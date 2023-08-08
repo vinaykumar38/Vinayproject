@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VINAY KUMAR\\Documents\\Visual Studio 2022\\ASI.net web api core\\YtBookStore\\YtBookStore\\YtBookStore.csproj": {}
+    "C:\\Users\\VINAY KUMAR\\Documents\\ASP.NET_mvc_core\\YtBookStore\\YtBookStore\\YtBookStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VINAY KUMAR\\Documents\\Visual Studio 2022\\ASI.net web api core\\YtBookStore\\YtBookStore\\YtBookStore.csproj": {
+    "C:\\Users\\VINAY KUMAR\\Documents\\ASP.NET_mvc_core\\YtBookStore\\YtBookStore\\YtBookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VINAY KUMAR\\Documents\\Visual Studio 2022\\ASI.net web api core\\YtBookStore\\YtBookStore\\YtBookStore.csproj",
+        "projectUniqueName": "C:\\Users\\VINAY KUMAR\\Documents\\ASP.NET_mvc_core\\YtBookStore\\YtBookStore\\YtBookStore.csproj",
         "projectName": "YtBookStore",
-        "projectPath": "C:\\Users\\VINAY KUMAR\\Documents\\Visual Studio 2022\\ASI.net web api core\\YtBookStore\\YtBookStore\\YtBookStore.csproj",
+        "projectPath": "C:\\Users\\VINAY KUMAR\\Documents\\ASP.NET_mvc_core\\YtBookStore\\YtBookStore\\YtBookStore.csproj",
         "packagesPath": "C:\\Users\\VINAY KUMAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VINAY KUMAR\\Documents\\Visual Studio 2022\\ASI.net web api core\\YtBookStore\\YtBookStore\\obj\\",
+        "outputPath": "C:\\Users\\VINAY KUMAR\\Documents\\ASP.NET_mvc_core\\YtBookStore\\YtBookStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VINAY KUMAR\\AppData\\Roaming\\NuGet\\NuGet.Config",

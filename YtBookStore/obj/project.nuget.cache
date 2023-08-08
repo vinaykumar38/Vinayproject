@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9UkkalxbnKQ4Sa/TDBVk0tfw2M9UeoAxP4P0gZmEKEBNum+0hnZDXW2Dso4MFeKDs5Swi2M3aJsmTidPDMDR6w==",
+  "dgSpecHash": "Pau1AF0nhQdZ2nI59Qbq2aw7CLbXEEdl+KKRWXw/dpBC4mAUP7Kgdrjc8YM9YXjPJb+jpyLmd/6Zxj76oOB7yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VINAY KUMAR\\Documents\\Visual Studio 2022\\ASI.net web api core\\YtBookStore\\YtBookStore\\YtBookStore.csproj",
+  "projectFilePath": "C:\\Users\\VINAY KUMAR\\Documents\\ASP.NET_mvc_core\\YtBookStore\\YtBookStore\\YtBookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VINAY KUMAR\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\VINAY KUMAR\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
